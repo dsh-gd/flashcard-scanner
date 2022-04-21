@@ -369,4 +369,4 @@ if __name__ == "__main__":
 
     from utils import save_dict
 
-    save_dict(d, "cards.json", sortkeys=True)
+    save_dict(d, "data/cards.json", sortkeys=True)
