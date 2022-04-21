@@ -1,0 +1,361 @@
+{
+  "cards": [
+    {
+      "id": 381,
+      "languages": {
+        "en": {
+          "topic": "Work",
+          "words": [
+            "to criticize (AmE)",
+            "to criticise (BrE)",
+            "(a) criticism"
+          ]
+        },
+        "uk": {
+          "topic": "Робота",
+          "words": [
+            "критикувати (амер.)",
+            "критикувати (брит.)",
+            "критика"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 332,
+      "languages": {
+        "en": {
+          "topic": "Counryside",
+          "words": [
+            "to scratch",
+            "a scratch",
+            "Don't scratch the mosquito bite!"
+          ]
+        },
+        "uk": {
+          "topic": "Сільська місцевість",
+          "words": [
+            "дряпати",
+            "подряпина",
+            "Не розчухуй укус комара!"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 333,
+      "languages": {
+        "en": {
+          "topic": "Counryside",
+          "words": [
+            "to stink (stank - stunk)",
+            "(a) stink",
+            "The house stank of cigarettes"
+          ]
+        },
+        "uk": {
+          "topic": "Сільська місцевість",
+          "words": [
+            "смердіти",
+            "сморід",
+            "Хата смерділа сигаретами"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 168,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a volcano",
+            "volcanic",
+            "an extinct volcano"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "вулкан",
+            "вулканічний",
+            "згаслий вулкан"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 499,
+      "languages": {
+        "en": {
+          "topic": "Social Conflicts",
+          "words": [
+            "to survive",
+            "survival",
+            "a survivor"
+          ]
+        },
+        "uk": {
+          "topic": "Соціальні конфлікти",
+          "words": [
+            "ВИЖивати",
+            "ВИЖиванНЯ",
+            "той, що ВИЖИВ"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 161,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a pine",
+            "a pine cone",
+            "pine needles"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "сосна",
+            "СОсНова ШИшка",
+            "Соснова хвоя"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 163,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a shell",
+            "We used to collect shells on the",
+            "beach"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "мушля",
+            "Колись ми збирали мушлі на",
+            "пляжі"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 166,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a tail",
+            "The dog wagged its tail excitedly"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "хвіст",
+            "Пес збуджено виляв хвостом"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 350,
+      "languages": {
+        "en": {
+          "topic": "Communication",
+          "words": [
+            "to matter",
+            "It does not matter!",
+            "It really matters to me!"
+          ]
+        },
+        "uk": {
+          "topic": "Chілкування",
+          "words": [
+            "мати значення",
+            "Це не має значення!",
+            "Це має для мене велике",
+            "значення!"
+          ]
+        }
+      },
+      "looks_fine": false
+    },
+    {
+      "id": 164,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a squirrel",
+            "The squirrel sat and ate the nut"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "білка",
+            "Білка сиділа та їла горіх"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 172,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "mud",
+            "muddy",
+            "My car stuck in the mud!"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "бруд",
+            "мулистий",
+            "Моя машина застрягла в",
+            "болоті!"
+          ]
+        }
+      },
+      "looks_fine": false
+    },
+    {
+      "id": 84,
+      "languages": {
+        "en": {
+          "topic": "Appearance",
+          "words": [
+            "waterproof",
+            "(a) waterproof",
+            "mascara",
+            "a waterproof jacket"
+          ]
+        },
+        "uk": {
+          "topic": "Зовнішній вигляд",
+          "words": [
+            "водостійкий,",
+            "водонепроникний",
+            "водостійка туш",
+            "водонепроникна куртка"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 372,
+      "languages": {
+        "en": {
+          "topic": "Work",
+          "words": [
+            "a pension",
+            "a pensioner",
+            "an old age pension"
+          ]
+        },
+        "uk": {
+          "topic": "Робота",
+          "words": [
+            "пенсія",
+            "пенсіонер",
+            "пенсія за віком"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 336,
+      "languages": {
+        "en": {
+          "topic": "Communication",
+          "words": [
+            "a thought",
+            "thoughtful",
+            "thoughtless"
+          ]
+        },
+        "uk": {
+          "topic": "Спілкування",
+          "words": [
+            "думка (як процес мислення)",
+            "вдумливий",
+            "безтурботний"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 160,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a mosquito",
+            "mosquitoes",
+            "Some mosquitoes spread",
+            "disease"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "комар",
+            "комарі",
+            "Деякі комарі розносять",
+            "хвороби"
+          ]
+        }
+      },
+      "looks_fine": true
+    },
+    {
+      "id": 165,
+      "languages": {
+        "en": {
+          "topic": "Nature",
+          "words": [
+            "a swan",
+            "We fed swans with",
+            "bread",
+            "a swan song"
+          ]
+        },
+        "uk": {
+          "topic": "Природа",
+          "words": [
+            "лебідь",
+            "Ми годували лебедів хлібом",
+            "лебедина пісня (щось останнє",
+            "чи фінальне (напр., виступ))"
+          ]
+        }
+      },
+      "looks_fine": true
+    }
+  ],
+  "name": "B2.1"
+}
